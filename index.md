@@ -1,4 +1,5 @@
 **Bookings 
+
 { % raw %}
 <iframe id="appointy-iframe" class="no-border"
                                 src="https://booking.appointy.com/cityzenbrisbane?isgadget=1&autoheight=1"
